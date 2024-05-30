@@ -1,1 +1,1 @@
-# clinic-management-system
+# webapp project
